@@ -1,0 +1,4 @@
+#!/bin/bash
+
+alias branch1="git checkout program_satu"
+alias branch2="git checkout program_dua"
